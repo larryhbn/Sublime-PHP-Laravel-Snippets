@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+interface ${1:InterfaceName} {
+	${2}
+}  // end interface ${1:InterfaceName}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>_interface</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>

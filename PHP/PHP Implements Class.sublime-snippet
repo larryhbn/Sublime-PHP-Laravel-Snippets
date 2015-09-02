@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+class ${1:ClassName} implements ${2:InterfaceName} {
+	${3}
+}  // end class ${1:ClassName}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>_implements</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>
